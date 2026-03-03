@@ -1,0 +1,26 @@
+[33m146d6c7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Inheritance
+[33m8bd68ee[m commit oops1
+[33m8842858[m File name changed
+[33mdf6f41d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Class and Objects (OPPs 1)
+[33m16dba50[m Exception Handling
+[33m969d8b2[m File Handling Basics
+[33m67a5c5d[m Add section for Lambda Function in README
+[33mf852d08[m Importing Packages and Execution
+[33m894d09e[m Standard Libraries and Execution
+[33m27cf0e5[m Create README.md
+[33m20263c7[m Delete Basics/Modules_&_FileHandling/check.txt
+[33mfe91641[m Create check.txt
+[33mf492eb5[m filter() function
+[33mb1fae87[m map() function
+[33m00179e7[m Lambda Function
+[33m1dec2f7[m Functions Basics
+[33m9976760[m Create README.md
+[33m51581f2[m Delete Inbuilt_DataStructures
+[33ma36d3f3[m Create Inbuilt_DataStructures
+[33m246acc4[m Dictionary
+[33mc9a95d2[m Sets
+[33mcbf3e82[m Add comprehensive sections on Lists and Tuples
+[33m5e153cf[m Tuple
+[33md54b4b4[m List
+[33m1ccb283[m Create README.md
+[33m7fe75b8[m Initial commit
